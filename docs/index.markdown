@@ -14,4 +14,4 @@ Before becoming involved in NLP, I worked for several years as a software develo
 
 In 2018, I received an MSc in Data Science from the University of Sussex, and I also hold a Bachelor's degree in Computer Science from the Tecnologico de Reynosa, in Reynosa, Mexico.
 
-For more details, take a look at my [CV](resume).
+If you'd like to know more, take a look at my [CV](resume).
