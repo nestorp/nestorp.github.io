@@ -10,7 +10,7 @@ Since 2018, I have worked part time at [CASM Technology](https://www.casmtechnol
 
 At CASM, I have also worked on multiple projects involving the detection of harmful discourse and disinformation in social media text, combining the experience of domain experts and state-of-the-art machine learning techniques to build data collection and analysis pipelines allowing the large-scale analysis of cross-platform text. 
 
-Before becoming involved in NLP, I worked for several years as a software developer, usually building and supporting reporting software, dashboards and other business intelligence tools.
+Before becoming involved in NLP, I worked for several years as a software developer, usually building and supporting reporting applications, dashboards and other business intelligence tools.
 
 In 2018, I received an MSc in Data Science from the University of Sussex, and I also hold a Bachelor's degree in Computer Science from the Tecnologico de Reynosa, in Reynosa, Mexico.
 
