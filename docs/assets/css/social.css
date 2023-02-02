@@ -1,0 +1,31 @@
+.fa:hover {
+    opacity: 0.9;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 40px;
+    text-decoration: none;
+    margin: 5px 10px;
+}
+
+.social-links {
+    display: inline-block;
+    float: none;
+}
+
+.social-links-list {
+    width:92%;
+    /*background:red;*/
+    /*height:20px;*/
+    text-align:center;
+}
+.social-links-item {
+    display:inline-block;
+    *display:inline; /*IE7*/
+    /**zoom:1; !*IE7*!*/
+    /*background:blue;*/
+    /*color:white;*/
+    /*margin-right:10px;*/
+}
